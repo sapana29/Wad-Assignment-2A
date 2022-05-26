@@ -1,0 +1,5 @@
+Name: Sapana Bhate
+Class: TE
+Subject: WAD
+
+This is file 2 for assignment 2A of WAD.
